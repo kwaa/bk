@@ -1,4 +1,4 @@
-name: Deploy ./kwaa.dev to Deno Deploy
+name: Deploy ./kwaa.dev/bk to Deno Deploy
 
 on:
   push:
