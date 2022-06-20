@@ -1,0 +1,10 @@
+{
+  "name": "bk-zenn",
+  "scripts": {
+    "dev": "zenn preview",
+    "preview": "zenn preview"
+  },
+  "devDependencies": {
+    "zenn-cli": "^0.1.113"
+  }
+}
